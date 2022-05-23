@@ -16,3 +16,5 @@
 To get more information about a command run *`-help [command_name]`
 
 *Note: Prefix can be different in various servers, to manage it, mention Ruqa (ex. @Ruqa). 
+
+Test
